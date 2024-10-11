@@ -25,7 +25,7 @@ git clone https://github.com/abhishek-soni-662028331/number-guessing-game.git
 
 Navigate to the Project Directory using cd
 
-###Run the Game
+### Run the Game
 
 Execute the Python script to start the game:
 
