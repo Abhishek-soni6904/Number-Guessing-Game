@@ -20,7 +20,7 @@ A simple Python-based number guessing game where players try to guess a randomly
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Abhishek-soni6904/number-guessing-game.git
+git clone https://github.com/Abhishek-soni6904/Number-Guessing-Game.git
 ```
 
 Navigate to the Project Directory using cd
